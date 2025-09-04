@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 1080">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #24927e;
+      }
+
+      .cls-2 {
+        fill: #34794b;
+      }
+
+      .cls-3 {
+        fill: #335851;
+      }
+
+      .cls-4 {
+        fill: #29d563;
+      }
+
+      .cls-5 {
+        fill: #1caf95;
+      }
+
+      .cls-6 {
+        fill: #3b3b3b;
+      }
+
+      .cls-7 {
+        fill: #14ccab;
+      }
+
+      .cls-8 {
+        fill: #375a43;
+      }
+
+      .cls-9 {
+        fill: #309753;
+      }
+
+      .cls-10 {
+        fill: #2db65b;
+      }
+
+      .cls-11 {
+        fill: #2b7568;
+      }
+    </style>
+  </defs>
+  <rect class="cls-7" x="785" y="326.25" width="411" height="102.75"/>
+  <rect class="cls-5" x="785" y="408.45" width="411" height="102.75"/>
+  <rect class="cls-1" x="785" y="490.65" width="411" height="102.75"/>
+  <rect class="cls-11" x="785" y="572.85" width="411" height="102.75"/>
+  <rect class="cls-3" x="785" y="655.05" width="411" height="102.75"/>
+  <rect class="cls-6" x="785" y="737.25" width="411" height="102.75"/>
+  <rect class="cls-8" x="785" y="675.6" width="349.35" height="164.4"/>
+  <rect class="cls-2" x="785" y="613.95" width="287.7" height="226.05"/>
+  <rect class="cls-9" x="785" y="552.3" width="226.05" height="287.7"/>
+  <rect class="cls-10" x="785" y="490.65" width="164.4" height="349.35"/>
+  <rect class="cls-4" x="785" y="429" width="102.75" height="411"/>
+</svg>

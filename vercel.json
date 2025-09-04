@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "builds": [
+    {
+      "src": "investment-app/index.js",
+      "use": "@vercel/node",
+      "config": {
+        "includeFiles": ["investment-app/**"]
+      }
+    }
+  ],
+  "routes": [
+    {
+      "src": "/(.*)",
+      "dest": "investment-app/index.js"
+    }
+  ],
+  "functions": {
+    "investment-app/index.js": {
+      "maxDuration": 30,
+      "environment": {
+        "FINNHUB_API_KEY": "@finnhub_api_key",
+        "GEMINI_API_KEY": "@gemini_api_key"
+      }
+    }
+  }
+}
